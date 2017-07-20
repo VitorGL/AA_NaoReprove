@@ -1,0 +1,14 @@
+Instruções do Jogo NãoReprove. 
+
+O objetivo do jogo é passar de período na faculdade.
+Para isso, durante o jogo aconteceram alguns eventos e você terá duas escolhas.
+Vai optar por aquela que fará você ter um bom rendimento e vencer seus inimigos (as provas).
+
+Você pode optar por utilizar o main da classe Engine ou da classe Grafico, na Engine você faz suas escolhas através de entrada no
+terminal do número da escolha pela qual deseja optar, já na classe Grafico, é uma interface gráfica
+
+Bom Jogo.
+
+Jogo produzido por 
+Vitor G. Loura e
+Bárbara Ayres

@@ -1,0 +1,44 @@
+Hoje é seu primeiro dia na faculdade. Você quer se divertir? Ou quer se dedicar aos estudos?
+Se Divertir
+Estudar
+Após alguns dias de muita diversão, você percebe que tem muita matéria acumulada.
+Se divertir e estudar no tempo que passaria dormindo.
+Parar de se divertir e focar nos estudos.
+Apareceu uma oportunidade de festa um dia antes da P1. Você quer ir ou não?
+Ir a festa
+Não ir a festa
+Chegou o dia da P1!!! Você estava exausto, dormiu na prova e tirou uma nota baixa. Você decide continuar como está ou procurar ajuda?
+Continuar
+Procurar ajuda
+Chegou o dia da P1!!! Você conseguiu uma nota mediana. Você decide continuar como está ou procurar ajuda?
+Continuar
+Procurar ajuda
+Chegou o dia da P2!!! Você tirou outra nota baixa e viu que reprovou, mesmo com PO, você não passaria, NÃO TEM MOLEZA!!!
+Chegou o dia da P2!!! Você tirou uma nota mediana e tem a oportunidade de fazer a PO. Te ofereceram ajuda nesse final de semana, você deseja aceitar ou recusar?
+Aceitar
+Recusar
+Chegou o dia da P2!!! Você tirou uma nota alta, parabéns. Você pode escolher fazer a PO ou não.
+Fazer a PO
+Não fazer a PO
+Você conseguiu passar com uma nota acima da média, mas não foi grande coisa, se esforce da próxima vez
+Você passou com uma nota muito boa, mas poderia ser excelente?
+Após alguns dias de muito estudo, seu amigo tenta te convencer a se divertir. 
+Se divertir e estudar no tempo que passaria dormindo.
+Continuar estudando. 
+A sua série preferida lançou uma temporada nova poucos dias antes da sua P1. Você deseja ver ou não?
+Ver
+Não ver
+Chegou o dia da P1!!! Você conseguiu uma nota mediana. Você decide continuar assistindo suas séries ou voltar a estudar?
+Continuar
+Estudar
+Chegou o dia da P1!! Parabéns, você foi um aluno dedicado e tirou uma nota alta. Você quer viajar ou focar nos estudos?
+Viajar
+Estudar
+Chegou o dia da P2!! Você conseguiu uma nota mediana. Você quer fazer a PO ou não?
+Fazer a PO
+Não fazer a PO
+Chegou o dia da P2!! Você conseguiu uma nota alta. Você quer fazer a PO ou não?
+Fazer a PO
+Não fazer a PO
+Chegou o dia da P2!! Você tirou uma nota muito alta. Parabéns, você nem precisa de PO. Você alcançou a excelência!!!
+Parabéns por ter entrado em uma faculdade, boa sorte no seu primeiro período
